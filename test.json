@@ -1,5 +1,5 @@
 {
-  "book1": "url1",
-  "book2": "url2",
-  "book3": "url3"
+  {"title": "firsttitle","link": "firstLink"},
+  {"title": "secondtitle","link": "secondLink"}
+
 }
