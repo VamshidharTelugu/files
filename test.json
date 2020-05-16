@@ -1,7 +1,13 @@
 {
   
-    "titles": ["pdf2","pdf3","pdf4"],
-    "links":  [1,2,3]
+    "pdf1": "link1",
+  "pdf2": "link1",
+  "pdf3": "link1",
+  "pdf4": "link1",
+  "pdf1": "link1",
+  "pdf1": "link1",
+  "pdf1": "link1",
+  "pdf1": "link1",
   
 
 }
