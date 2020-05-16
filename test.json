@@ -1,11 +1,7 @@
 
 {
-  "title": "firsttitle",
-  "link": "firstLink"
+  "books": ["pdf1","pdf2"],
+  "links":["link","link"]
   
-}
-{ 
-  "title": "second",
- "link": "secondLink"
 }
 
