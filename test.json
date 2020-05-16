@@ -1,5 +1,9 @@
 {
-  {"title": "firsttitle","link": "firstLink"},
-  {"title": "secondtitle","link": "secondLink"}
+  title: "firsttitle",
+  link: "firstLink"
+  
+}
 
+{ title: "second",
+ link: "secondLink"
 }
