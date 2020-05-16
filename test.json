@@ -1,7 +1,7 @@
 {
   
-    "titles" = ["pdf2","pdf3","pdf4"],
-    "links" =  [1,2,3]
+    "titles" : ["pdf2","pdf3","pdf4"],
+    "links" :  [1,2,3]
   
 
 }
