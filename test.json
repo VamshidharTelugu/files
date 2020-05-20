@@ -1,28 +1,6 @@
 {
-  "books": ["Testing",
-            "link",
-            "link",
-            "link",
-            "link",
-            "link",
-            "link",
-            "link",
-            "link",
-            "link",
-            "link",
-            "link"],
-  "links": ["link",
-            "link",
-            "link",
-            "link",
-            "link",
-            "link",
-            "link",
-            "link",
-            "link",
-            "link",
-            "link",
-            "link"]
+  "books": ["Testing"],
+  "links": ["http://www.africau.edu/images/default/sample.pdf"]
 
   
 }
