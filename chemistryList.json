@@ -1,10 +1,10 @@
   
 {
   "books": ["Atomic Struture And Bonding Theories",
-           "Water Treatment",
-           "Electrochemistry and Applications",
+           "Water Treatment      ",
+           "Electrochemistry and Applications    ",
            "Instrumental Methods and Applicaitons",
-           "Fuel Chemistry and Applications"],
+           "Fuel Chemistry and Applications     "],
    "links": ["https://github.com/VamshidharTelugu/Chemistry/blob/master/chemistry1_compressed.pdf",
             "https://github.com/VamshidharTelugu/Chemistry/blob/master/Engineering%20Chemistry_Unit-2_compressed.pdf",
             "https://github.com/VamshidharTelugu/Chemistry/blob/master/Engineering%20Chemistry_Unit-3_compressed.pdf",
