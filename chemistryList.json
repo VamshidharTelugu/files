@@ -1,6 +1,10 @@
   
 {
-  "books": ["chemistry"],
+  "books": ["Atomic Struture And Bonding Theories",
+           "Water Treatment",
+           "Electrochemistry and Applications",
+           "Instrumental Methods and Applicaitons",
+           "Fuel Chemistry and Aapplications"],
   "links": ["http://www.africau.edu/images/default/sample.pdf"]
 
   
