@@ -1,8 +1,11 @@
   
 {
-  "books": ["naPdfs"],
-  "links": ["https://www.hq.nasa.gov/alsj/a17/A17_FlightPlan.pdf"],
-  "onlineLinks": ["https://drive.google.com/file/d/190JL4GNuW2LebSHRrILU8Lif4SjXweKf/view?usp=sharing"]
+  "books": ["naPdfs",
+           "napdf 1"],
+  "links": ["https://www.hq.nasa.gov/alsj/a17/A17_FlightPlan.pdf",
+          "https://www.hq.nasa.gov/alsj/a17/A17_FlightPlan.pdf"],
+  "onlineLinks": ["https://drive.google.com/file/d/190JL4GNuW2LebSHRrILU8Lif4SjXweKf/view?usp=sharing",
+                 "https://drive.google.com/file/d/190JL4GNuW2LebSHRrILU8Lif4SjXweKf/view?usp=sharing"]
 
   
 }
