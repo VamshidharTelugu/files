@@ -1,20 +1,16 @@
   
 {
-  "books": ["1. Atomic Struture And Bonding...",
+  "books": ["1. Atomic Struture And Bonding Theories",
            "2. Water Treatment",
            "3. Electrochemistry and Applications",
-           "4. Instrumental Methods and ...",
-           "5. Fuel Chemistry and Applications..."],
+           "4. Instrumental Methods and Applications",
+           "5. Fuel Chemistry and Lubricants"],
    "links": ["https://github.com/VamshidharTelugu/Chemistry/raw/master/chemistry1_compressed.pdf",
             "https://github.com/VamshidharTelugu/Chemistry/raw/master/Engineering%20Chemistry_Unit-2_compressed.pdf",
             "https://github.com/VamshidharTelugu/Chemistry/raw/master/Engineering%20Chemistry_Unit-3_compressed.pdf",
             "https://github.com/VamshidharTelugu/Chemistry/raw/master/Engineering_Chemistry_Unit-4%5B1%5D_compressed.pdf",
             "https://github.com/VamshidharTelugu/Chemistry/raw/master/Engineering_Chemistry_Unit-5%5B1%5D_compressed.pdf"],
-  "onlineLinks": ["https://drive.google.com/file/d/13FJTuv9DCmcn6bVsE6oSQ1fRw-pMbIpp/view?usp=sharing",
-                   "https://drive.google.com/file/d/1h9aZIYLhQu_H-XLZhs9hFh0Ph-7JYaO6/view?usp=sharing",
-                   "https://drive.google.com/file/d/1cFO9p-AwGpzpdiXoufsJlENhDXwT9HUL/view?usp=sharing",
-                   "https://drive.google.com/file/d/1mtXW7F6R_N9nHCsKSN-CLn1WHwyM2jg_/view?usp=sharing",
-                   "https://drive.google.com/file/d/18jhs6jekiBamYdsxlhM25IHRpL5hcB-A/view?usp=sharing"]
+
 
 
   
