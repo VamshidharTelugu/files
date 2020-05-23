@@ -1,10 +1,10 @@
   
 {
-  "books": ["1.Problem Solving and Python Pro...",
-           "2.Control Strutures",
-           "3.Sequence,Sets,Dictionaries And Data.",
-           "4.Modular Programming And File....",
-           "5.Data Representaion and Visualization"],
+  "books": ["1. Problem Solving and Python Programming",
+           "2. Control Strutures",
+           "3. Sequence,Sets,Dictionaries And Data.",
+           "4. Modular Programming And File....",
+           "5. Data Representaion and Visualization"],
   
      "links": ["https://github.com/VamshidharTelugu/python/raw/master/PPS_UNIT-1_Problem%20Solving%20%26%20Python%20Programming.pdf",
               "https://github.com/VamshidharTelugu/python/raw/master/PPS_UNIT-2_Control%20Structures.pdf",
