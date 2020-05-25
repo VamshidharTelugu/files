@@ -1,6 +1,26 @@
 {
-  "books": ["--SVEC Regulations 2019--"],
-  "links": ["https://github.com/VamshidharTelugu/Svec-Regulations/raw/master/svec-19-regulations-ece.pdf"]
+  "books": ["--SVEC Regulations 2019--",
+           "Network Analysis Syllabus",
+           "Python Syllabus",
+           "Chemistry Syllabus",
+           "English Syllabus",
+           "AutoCAD Syllabus",
+           "Mathematics Syllabus",
+           "NA Lab Syllabus",
+           "Chemistry Lab Syllabus",
+           "CE Lab Syllabus",
+           "Python Lab Syllabus"],
+  "links": ["https://github.com/VamshidharTelugu/Svec-Regulations/raw/master/svec-19-regulations-ece.pdf",
+           "https://github.com/VamshidharTelugu/Svec-Regulations/raw/master/na.pdf",
+           "https://github.com/VamshidharTelugu/Svec-Regulations/raw/master/python.pdf",
+           "https://github.com/VamshidharTelugu/Svec-Regulations/raw/master/chemistry.pdf",
+           "https://github.com/VamshidharTelugu/Svec-Regulations/raw/master/english.pdf",
+           "https://github.com/VamshidharTelugu/Svec-Regulations/raw/master/autoCad.pdf",
+           "https://github.com/VamshidharTelugu/Svec-Regulations/raw/master/autoCad.pdf",
+           "https://github.com/VamshidharTelugu/Svec-Regulations/raw/master/naLab.pdf",
+           "https://github.com/VamshidharTelugu/Svec-Regulations/raw/master/chemistrylab.pdf",
+           "https://github.com/VamshidharTelugu/Svec-Regulations/raw/master/ceLab.pdf",
+           "https://github.com/VamshidharTelugu/Svec-Regulations/raw/master/pythonLab.pdf"]
 
   
 }
