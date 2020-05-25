@@ -1,6 +1,8 @@
 {
-  "books": ["1. Two Port Networks"],
-  "links": ["https://github.com/VamshidharTelugu/NetworkAnalysis/raw/master/Two%20Port%20Networks%20(1).pdf"]
+  "books": ["3.1 Norton's Theorem",
+            "5. Two Port Networks"],
+  "links": ["https://github.com/VamshidharTelugu/NetworkAnalysis/raw/master/Norton's%20Theorem.pdf",
+             "https://github.com/VamshidharTelugu/NetworkAnalysis/raw/master/Two%20Port%20Networks%20(1).pdf"]
 
   
 }
