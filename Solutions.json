@@ -1,5 +1,6 @@
 {
   "books": ["Maths Answers",
+            "NA Theory Answers(part 1)",
            "Python Theory-Answers",
            "Python Lab -Answers",
            "AutoCAD Answers",
@@ -7,6 +8,7 @@
            "Chemsitry Theory Answers",
            "Chemistry Lab Answers"],
   "links": ["https://github.com/VamshidharTelugu/question-bank/raw/master/1.%20TTLA-%20MID-I-converted.pdf",
+            "https://github.com/VamshidharTelugu/question-bank/raw/master/Na%2042%20Answers-converted-compressed.pdf",
             "https://github.com/VamshidharTelugu/question-bank/raw/master/4.%20Programming%20for%20Problem%20Solving%20-MID-I%20-%20Copy-converted.pdf",
             "https://github.com/VamshidharTelugu/question-bank/raw/master/9.%20PPS%20Lab%20MID-I-converted.pdf",
            "https://github.com/VamshidharTelugu/question-bank/raw/master/8.%20Computer%20Aided%20Engineering%20Drawing%20-%20MID-I%20Answers-converted-compressed.pdf",
